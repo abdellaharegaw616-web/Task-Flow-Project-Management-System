@@ -15,7 +15,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-000000.svg?logo=express&logoColor=white)](https://expressjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[Live Demo](https://taskflow-demo-link-placeholder.vercel.app) • [GitHub Repository](https://github.com/abdellaharegaw616-web/2026-internship-project)
+[Live Demo](https://2026-internship-project.vercel.app) • [GitHub Repository](https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System)
 
 </div>
 
@@ -23,13 +23,13 @@
 
 ## 📖 Overview
 
-TaskFlow is a modern web-based Project Management System designed to help teams organize projects, manage tasks, collaborate with team members, monitor progress, and improve productivity from one centralized platform. 
+TaskFlow is a modern web-based Project Management System designed to help teams organize projects, manage tasks, collaborate with team members, monitor progress, and improve productivity from one centralized workspace.
 
-**The Problem It Solves:** Modern teams often suffer from fragmented workflows, relying on disconnected tools for task tracking, team communication, and performance monitoring. This leads to information silos and decreased efficiency.
+**The Problem It Solves:** Modern teams often suffer from fragmented workflows, relying on disconnected tools for task tracking, team communication, and performance monitoring. This leads to information silos, slower execution, and reduced accountability.
 
 **Who Can Use It:** Software development teams, marketing agencies, HR departments, and any fast-growing organization looking to streamline their daily operations.
 
-**Why Centralized Project Management:** Centralizing data ensures a single source of truth. It provides total accountability, clear task ownership, and frictionless collaboration, allowing teams to focus on shipping their best work rather than chasing status updates.
+**Why Centralized Project Management:** Centralizing data ensures a single source of truth. It provides total accountability, clear task ownership, and frictionless collaboration, allowing teams to optimize workflows and deliver faster results.
 
 ---
 
@@ -163,8 +163,8 @@ Follow these instructions to set up TaskFlow on Windows, Linux, or macOS.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/abdellaharegaw616-web/2026-internship-project.git
-   cd 2026-internship-project
+   git clone https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System.git
+   cd Task-Flow-Project-Management-System
    ```
 
 2. **Install frontend dependencies**
@@ -289,20 +289,14 @@ TaskFlow's design philosophy centers on reducing cognitive load and maximizing u
 ### Dashboard
 <img width="960" height="409" alt="image" src="https://github.com/user-attachments/assets/c6642be8-1bf0-4382-aedd-ee64518e2b01" />
 
-
 ### Projects
 <img width="956" height="410" alt="image" src="https://github.com/user-attachments/assets/bab4d4cc-b086-42b9-beeb-bbb795eeeac8" />
-
 
 ### Tasks
 <img width="954" height="410" alt="image" src="https://github.com/user-attachments/assets/0e6edd29-d5d1-4513-ba23-5c480a06a164" />
 
-
 ### Team
 <img width="960" height="409" alt="image" src="https://github.com/user-attachments/assets/f30f5028-438c-4dc0-b594-8f60ca046a08" />
-
-
-
 
 ## 🚢 Deployment
 
@@ -311,6 +305,8 @@ TaskFlow uses a split-deployment strategy optimized for performance and scalabil
 - **Frontend → Vercel**: The React application is deployed to Vercel for global CDN distribution, edge caching, and automated CI deployments.
 - **Backend → Render**: The Node.js/Express REST API runs on Render, providing robust backend container orchestration.
 - **Database → MongoDB Atlas**: Data is securely hosted on a fully managed, globally distributed cloud cluster.
+
+**Production URL:** [https://2026-internship-project.vercel.app](https://2026-internship-project.vercel.app)
 
 **Production Considerations:** Ensure all environment variables (`CLIENT_URL`, production `MONGODB_URI`, `JWT_SECRET`) are explicitly injected into the respective Vercel and Render dashboards.
 
@@ -363,7 +359,7 @@ Developing TaskFlow successfully demonstrates mastery over:
 - **Location:** Arba Minch, Ethiopia
 - **GitHub:** [https://github.com/abdellaharegaw616-web](https://github.com/abdellaharegaw616-web)
 - **LinkedIn:** [Insert LinkedIn URL]
-- **Portfolio:** [https://2026-internship-project.vercel.app]
+- **Portfolio:** [https://2026-internship-project.vercel.app](https://2026-internship-project.vercel.app)
 
 ---
 
